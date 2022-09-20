@@ -1,2 +1,0 @@
-# Notebook
-For random notes

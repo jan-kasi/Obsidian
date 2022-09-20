@@ -157,3 +157,107 @@ Summary:
 Thought and Extension are conceptually independent
 Two arguments for premise that mind and body can exist independently as distinct substances (conceivability and divisibility)
 
+
+## Lecture 3: Mind-Body Problem
+D: Mind and Body are two numerically distinct things (they exist as two distinct things in the world).
+
+We will look at three objections
+1. Spatiality Problem
+2. Interaction Problem
+3. Causal Overdetermination Problem
+
+Meditation 6 CSM II p56 "There is nothing that my own nature teaches me more vividly than that I have a body, and that when I feel pain [...] and so on"
+There seems a pairing of mind and body for humans.
+- Ship analogy: if I were not a mind intermingled with the body, I would not **feel** pain but simply perceive it by the intellect (process).
+- The mind is affected by states of the body
+- The mind is not simply a passanger of the body (not just a homunculus)
+
+The Nature of the Union of mind and body
+- There is some part of the brain where intermingling between mind and body takes place
+- Descartes posits this part of the brain is able to **communicate** with the mind by sending some signals
+- Descartes holds that there is empirical evidence of this (with our current empirical evidence, we hold it isn't the pineal gland but this does not matter; the main point is that there is some part of the brain which intermingles with the mind)
+### 1. Spatiality Problem
+**Margaret Cavendish (1623-1673)**
+> I would ask those, that say the Brain has neither sense, reason, nor self-motion, and therefore no Perception; but that all proceeds from an Immaterial Principle, as an Incorporeal Spirit, distinct from the body, which moveth and actuates corporeal matter; I would fain ask them, I say, where their Immaterial Ideas reside, in what part or place of the Body? and whether they be little or great?
+
+> If [the mind is] immaterial…having no dimension nor divisibility of parts…how can it be confined in a material body?
+
+(1) Location and movement belongs only to material (extended) things,
+(2) My mind moves and is located wherever my body is,
+And from this we can derive that if the mind moves with the body,
+(3) My mind must be material (it cannot be immaterial)
+
+Possible replies:
+1. A brute fact?
+	1. This is a problematic move especially for a rationalist (principle of sufficient reason/explanation). Also his own version of brute facts are very selective, and I don't particularly see how they could integrate this premise without it being a different ad hoc kind of brute fact
+2. God's Will?
+	1. We would need to show that God exists, that God has a Will, and that God has reason to Will this.
+
+### 2. Interaction Problem 
+**Elizabeth of Bohemia** 
+How can the mind affect the body to bring about voluntary actions?
+
+**Step 1**
+1. It seems that how a thing moves depends solely on
+	1. how much is pushed
+	2. the manner in which it is pushed, or
+	3. the surface-texture and shape of the thing that pushes it
+	1 and 2 pressupose contact, hence extension. 3 pressuposes the acausally active thing be extended.
+
+1. For x to move a body y it is necessary that x and y are extended
+
+**Step 2**
+(2) “Your notion of the soul [the mind] entirely excludes extension, and it appears to me that an immaterial thing can’t possibly touch anything else (Elisabeth of Bohemia, 6.v.1643).”
+
+The mind cannot have the property of extension.
+2. The mind is not extended
+
+**Conclusion**
+1. For x to move a body y, it is necessary that x and y are extended
+2. The mind is not extended
+3. The mind cannot move the body
+
+**Descartes' unconvincing (?) reply**
+
+--
+Notions about the soul and body
+Confusions
+Different powers
+
+**Elizabeth's reply**
+
+-- 
+From the premise that the force is not a substance to move the body but rather a secondary quality of a body, hence a body moving a body. It does not follow that hence the soul may move a body by a different power/quality. This is simply attributing the something not-knowin to the mind.
+Elizabeth of Bohemia finds it far easier (more correct/less wishywashy) to claim extension of the mind/soul than to allow the immaterial material influence.
+
+### 3. Causal Overdetermination
+**Jaegwon Kim**
+1. "Physics is causally and explanatory self-sufficient: there is no need to go outside the physical domain to find a cause, or a causal explanation, of a physical event" (Jaegwon Kim, Physicalism or Something Near Enough, pp.16-7)
+		1. **Principle of causal closure**
+		2. Every event in the physical domain is sufficiently explained within the physical domain/has a sufficiently physical cause
+2. "If an event e has a sufficient cause c at t, no event at t distinct from c can be the cause of e" (Jaegwon Kim, Physicalism or Something Near Enough, pp.16-7)
+		1. **Principle of causal exclusion**
+		2. One event cannot have more than one sufficient cause at the same time
+3. No event in the physical domain can have a sufficient mental cause
+
+
+### Replies
+1. Occasionalism: God is the only true cause
+	1. "As I understand it, a true cause is one in which the mind perceives a necessary connection between the cause and its effect. Now, it is only in an infinitely perfect being that one perceives a necessary connection between its will and its effects. Thus God is the only true cause, and only He truly has the power to move bodies” (The Search after Truth, p.446)
+	2. Mind and Body are both **Causally Inept**, only God has causal power
+	3. There is no interaction between substances
+	4. God permamently intervenes
+
+2. Pre-established Harmony
+	1. Leibniz: "Each created substance is programmed at creation such that all its natural states and actions are carried out in conformity with all the natural states and actions of every other created substance” (Kulstad and Carlin, SEP)
+	2. No interaction between substances
+	3. God has established the co-relation between mind and body from the beginning
+	4. God only intervenes at creation (this corresponds to SEP article thinker's view on cartesian creation).
+
+---
+# Tutorial
+Readings:
+Extracts from Descartes' Meditations partaining to the division of mind and body
+Elizabeth of Bohemia's correspondence with Descartes
+Margaret Cavendish's objections
+
