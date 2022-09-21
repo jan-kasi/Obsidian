@@ -622,3 +622,17 @@ annotation-target::Resources/MansfieldPark.pdf
 >
 ^yq5gbluj7pa
 
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-21T14:31:34.716Z","text":"See markdown file for further notes!","updated":"2022-09-21T14:31:34.716Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":0,"end":4},{"type":"TextQuoteSelector","exact":"Read","prefix":"2%50%75%100%125%150%200%300%400%","suffix":" these extracts from the final c"}]}]}
+>```
+>%%
+>*%%PREFIX%%2%50%75%100%125%150%200%300%400%%%HIGHLIGHT%% ==Read== %%POSTFIX%%these extracts from the final c*
+>%%LINK%%[[#^533b5vmolof|show annotation]]
+>%%COMMENT%%
+>See markdown file for further notes!
+>%%TAGS%%
+>
+^533b5vmolof
