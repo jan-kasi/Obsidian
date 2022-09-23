@@ -17,46 +17,7 @@
 
 annotation-target::Resources/MansfieldPark.pdf
 
->%%
->```annotation-json
->{"created":"2022-09-16T09:55:43.561Z","updated":"2022-09-16T09:55:43.561Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":205,"end":209},{"type":"TextQuoteSelector","exact":"Her ","prefix":"ovel in this week’s lectures.***","suffix":"father read his newspaper, and h"}]}]}
->```
->%%
->*%%PREFIX%%ovel in this week’s lectures.***%%HIGHLIGHT%% ==Her== %%POSTFIX%%father read his newspaper, and h*
->%%LINK%%[[#^49hj4aen1f2|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->#pronouns
-^49hj4aen1f2
 
-
->%%
->```annotation-json
->{"created":"2022-09-16T09:55:46.109Z","updated":"2022-09-16T09:55:46.109Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":221,"end":224},{"type":"TextQuoteSelector","exact":"his","prefix":"k’s lectures.***Her father read ","suffix":" newspaper, and her mother lamen"}]}]}
->```
->%%
->*%%PREFIX%%k’s lectures.***Her father read%%HIGHLIGHT%% ==his== %%POSTFIX%%newspaper, and her mother lamen*
->%%LINK%%[[#^ahironiv2kl|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->#pronouns
-^ahironiv2kl
-
-
->%%
->```annotation-json
->{"created":"2022-09-16T09:55:49.338Z","updated":"2022-09-16T09:55:49.338Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":240,"end":243},{"type":"TextQuoteSelector","exact":"her","prefix":" father read his newspaper, and ","suffix":" mother lamented over the ragged"}]}]}
->```
->%%
->*%%PREFIX%%father read his newspaper, and%%HIGHLIGHT%% ==her== %%POSTFIX%%mother lamented over the ragged*
->%%LINK%%[[#^ke2ba4uynnc|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->#pronouns
-^ke2ba4uynnc
 
 
 
@@ -82,21 +43,21 @@ annotation-target::Resources/MansfieldPark.pdf
 
 >%%
 >```annotation-json
->{"created":"2022-09-16T09:59:04.783Z","text":"Interesting if censorship included.","updated":"2022-09-16T09:59:04.783Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":929,"end":933},{"type":"TextQuoteSelector","exact":"G—! ","prefix":" his daughter the less. But, by ","suffix":"if  she belonged to me, I'd give"}]}]}
+>{"text":"Interesting if censorship included. ","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":929,"end":933},{"type":"TextQuoteSelector","exact":"G—! ","prefix":"his daughter the less. But, by","suffix":"if  she belonged to me, I'd give"}]}],"created":"2022-09-16T09:59:04.783Z","updated":"2022-09-16T09:59:04.783Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf"}
 >```
 >%%
 >*%%PREFIX%%his daughter the less. But, by%%HIGHLIGHT%% ==G—!== %%POSTFIX%%if  she belonged to me, I'd give*
 >%%LINK%%[[#^cc5waub30wa|show annotation]]
 >%%COMMENT%%
->Interesting if censorship included.
+>Interesting if censorship included. 
 >%%TAGS%%
->#interest
+>
 ^cc5waub30wa
 
 
 >%%
 >```annotation-json
->{"created":"2022-09-16T09:59:29.617Z","text":"Attitude of daughters being property.\n\nThe imposing of own values onto other family situations and belief of one’s correctness and ability to manage situations better.","updated":"2022-09-16T09:59:29.617Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":941,"end":955},{"type":"TextQuoteSelector","exact":"belonged to me","prefix":"r the less. But, by G—! if  she ","suffix":", I'd give her the rope's end as"}]}]}
+>{"text":"Attitude of daughters being property.\n\nThe imposing of own values onto other situations and belief of one’s correctness and ability to manage situations better.","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":941,"end":955},{"type":"TextQuoteSelector","exact":"belonged to me","prefix":"r the less. But, by G—! if  she","suffix":", I'd give her the rope's end as"}]}],"created":"2022-09-16T09:59:29.617Z","updated":"2022-09-16T09:59:29.617Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf"}
 >```
 >%%
 >*%%PREFIX%%r the less. But, by G—! if  she%%HIGHLIGHT%% ==belonged to me== %%POSTFIX%%, I'd give her the rope's end as*
@@ -104,29 +65,16 @@ annotation-target::Resources/MansfieldPark.pdf
 >%%COMMENT%%
 >Attitude of daughters being property.
 >
->The imposing of own values onto other family situations and belief of one’s correctness and ability to manage situations better.
+>The imposing of own values onto other situations and belief of one’s correctness and ability to manage situations better.
 >%%TAGS%%
->#ownership
+>
 ^c31ckv19d3g
 
 
->%%
->```annotation-json
->{"created":"2022-09-16T10:01:26.258Z","updated":"2022-09-16T10:01:26.258Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":265,"end":268},{"type":"TextQuoteSelector","exact":"the","prefix":"r, and her mother lamented over ","suffix":" ragged carpet as usual, while t"}]}]}
->```
->%%
->*%%PREFIX%%r, and her mother lamented over%%HIGHLIGHT%% ==the== %%POSTFIX%%ragged carpet as usual, while t*
->%%LINK%%[[#^cikaj4s345|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->#pronouns
-^cikaj4s345
-
 
 >%%
 >```annotation-json
->{"created":"2022-09-16T10:01:56.503Z","text":"Does he wish the flogging be done to the man (adulterer, I assume), or by the man (husband/father)??","updated":"2022-09-16T10:01:56.503Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":1038,"end":1059},{"type":"TextQuoteSelector","exact":"for man and woman too","prefix":"and over her. A little flogging ","suffix":" would be the best way of  preve"}]}]}
+>{"text":"Does he wish the flogging be done to the man (adulterer, I assume), or by the man (husband/father)??","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":1038,"end":1059},{"type":"TextQuoteSelector","exact":"for man and woman too","prefix":"and over her. A little flogging","suffix":"would be the best way of  preve"}]}],"created":"2022-09-16T10:01:56.503Z","updated":"2022-09-16T10:01:56.503Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf"}
 >```
 >%%
 >*%%PREFIX%%and over her. A little flogging%%HIGHLIGHT%% ==for man and woman too== %%POSTFIX%%would be the best way of  preve*
@@ -134,13 +82,13 @@ annotation-target::Resources/MansfieldPark.pdf
 >%%COMMENT%%
 >Does he wish the flogging be done to the man (adulterer, I assume), or by the man (husband/father)??
 >%%TAGS%%
->#gender, #violence, #interest
+>
 ^88ttusp4dzn
 
 
 >%%
 >```annotation-json
->{"created":"2022-09-16T10:03:47.975Z","text":"Newspaper “had” to announce? Why is this the case. Is it simply because of the function that it was almost ‘too good a selling story not to tell’, even though they truly ought not to and hence with feigned “infinite concern” do.\n\nDo they truly feel an infinite concern that this “matrimonial fracas” has occurred?\n\n\n","updated":"2022-09-16T10:03:47.975Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":1181,"end":1189},{"type":"TextQuoteSelector","exact":" had to ","prefix":"h infinite concern the newspaper","suffix":"announce to the world a matrimon"}]}]}
+>{"text":"Newspaper “had” to announce? Why is this the case. Is it simply because of the function that it was almost ‘too good a selling story not to tell’, even though they truly ought not to and hence with feigned “infinite concern” do.\n\nDo they truly feel an infinite concern that this “matrimonial fracas” has occurred?\n\n\n","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":1181,"end":1189},{"type":"TextQuoteSelector","exact":" had to ","prefix":"h infinite concern the newspaper","suffix":"announce to the world a matrimon"}]}],"created":"2022-09-16T10:03:47.975Z","updated":"2022-09-16T10:03:47.975Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf"}
 >```
 >%%
 >*%%PREFIX%%h infinite concern the newspaper%%HIGHLIGHT%% ==had to== %%POSTFIX%%announce to the world a matrimon*
@@ -153,13 +101,13 @@ annotation-target::Resources/MansfieldPark.pdf
 >
 >
 >%%TAGS%%
->#necessity, #interest, #fantasy
+>
 ^qgzu8nge53a
 
 
 >%%
 >```annotation-json
->{"created":"2022-09-16T10:06:50.737Z","text":"Interest in the story. Emphatic that “even the editor” doesn’t know. Intrigue and mystery as to adultery: almost like a fantasy.\n\nMystery heightened by ‘anonymisation’ of names; although probably not that difficult to find who the “beautiful Mrs. R” of Wimpole Street is, if one could be bothered enough to look or remember.","updated":"2022-09-16T10:06:50.737Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":1598,"end":1634},{"type":"TextQuoteSelector","exact":"even to the editor of  the newspaper","prefix":"f  Mr. R., and it was not known ","suffix":" whither they were gone.”“It is "}]}]}
+>{"text":"Interest in the story. Emphatic that “even the editor” doesn’t know. Intrigue and mystery as to adultery: almost like a fantasy.\n\nMystery heightened by ‘anonymisation’ of names; although probably not that difficult to find who the “beautiful Mrs. R” of Wimpole Street is, if one could be bothered enough to look or remember.","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":1598,"end":1634},{"type":"TextQuoteSelector","exact":"even to the editor of  the newspaper","prefix":"f  Mr. R., and it was not known","suffix":"whither they were gone.”“It is"}]}],"created":"2022-09-16T10:06:50.737Z","updated":"2022-09-16T10:06:50.737Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf"}
 >```
 >%%
 >*%%PREFIX%%f  Mr. R., and it was not known%%HIGHLIGHT%% ==even to the editor of  the newspaper== %%POSTFIX%%whither they were gone.”“It is*
@@ -169,7 +117,7 @@ annotation-target::Resources/MansfieldPark.pdf
 >
 >Mystery heightened by ‘anonymisation’ of names; although probably not that difficult to find who the “beautiful Mrs. R” of Wimpole Street is, if one could be bothered enough to look or remember.
 >%%TAGS%%
->#fantasy
+>
 ^bwwd466ce1
 
 
@@ -259,7 +207,7 @@ annotation-target::Resources/MansfieldPark.pdf
 
 >%%
 >```annotation-json
->{"created":"2022-09-16T10:12:56.541Z","text":"Wow! She really cares about this!\n\nI am not entirely sure if the author is using such narration and emphatic conviction to mock such views or not…","updated":"2022-09-16T10:12:56.541Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":3288,"end":3348},{"type":"TextQuoteSelector","exact":"who could treat as a trifle this sin of  the first magnitude","prefix":"man of  character in existence, ","suffix":", who would try to gloss it over"}]}]}
+>{"text":"Wow! She really cares about this!\n\nI am not entirely sure if the author is using such narration and emphatic conviction to mock such views or not…","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":3288,"end":3348},{"type":"TextQuoteSelector","exact":"who could treat as a trifle this sin of  the first magnitude","prefix":"man of  character in existence,","suffix":", who would try to gloss it over"}]}],"created":"2022-09-16T10:12:56.541Z","updated":"2022-09-16T10:12:56.541Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf"}
 >```
 >%%
 >*%%PREFIX%%man of  character in existence,%%HIGHLIGHT%% ==who could treat as a trifle this sin of  the first magnitude== %%POSTFIX%%, who would try to gloss it over*
@@ -269,7 +217,7 @@ annotation-target::Resources/MansfieldPark.pdf
 >
 >I am not entirely sure if the author is using such narration and emphatic conviction to mock such views or not…
 >%%TAGS%%
->#interest
+>
 ^7q0tppls2h5
 
 
@@ -352,32 +300,6 @@ annotation-target::Resources/MansfieldPark.pdf
 
 
 
->%%
->```annotation-json
->{"created":"2022-09-16T10:16:46.323Z","updated":"2022-09-16T10:16:46.323Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":4497,"end":4500},{"type":"TextQuoteSelector","exact":"His","prefix":"er judgment told her it was so. ","suffix":" unsettled affections, wavering "}]}]}
->```
->%%
->*%%PREFIX%%er judgment told her it was so.%%HIGHLIGHT%% ==His== %%POSTFIX%%unsettled affections, wavering*
->%%LINK%%[[#^8vxcjdf1w4o|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->#pronouns
-^8vxcjdf1w4o
-
-
->%%
->```annotation-json
->{"created":"2022-09-16T10:16:52.370Z","updated":"2022-09-16T10:16:52.370Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":4549,"end":4556},{"type":"TextQuoteSelector","exact":"Maria's","prefix":"ions, wavering with his vanity, ","suffix":" decided attachment, and no suff"}]}]}
->```
->%%
->*%%PREFIX%%ions, wavering with his vanity,%%HIGHLIGHT%% ==Maria's== %%POSTFIX%%decided attachment, and no suff*
->%%LINK%%[[#^5yma1eril68|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->#pronouns
-^5yma1eril68
 
 
 >%%
@@ -442,7 +364,7 @@ annotation-target::Resources/MansfieldPark.pdf
 
 >%%
 >```annotation-json
->{"created":"2022-09-16T10:21:23.910Z","text":"Lots of emphasis on Mr and Sir; whereas it is just Julia","updated":"2022-09-16T10:21:23.910Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":6822,"end":6825},{"type":"TextQuoteSelector","exact":"Sir","prefix":"rths' return to Wimpole Street, ","suffix":" Thomas had received a letter fr"}]}]}
+>{"text":"Lots of emphasis on Mr and Sir; whereas it is just Julia","target":[{"source":"vault:/Resources/MansfieldPark.pdf","selector":[{"type":"TextPositionSelector","start":6822,"end":6825},{"type":"TextQuoteSelector","exact":"Sir","prefix":"rths' return to Wimpole Street,","suffix":"Thomas had received a letter fr"}]}],"created":"2022-09-16T10:21:23.910Z","updated":"2022-09-16T10:21:23.910Z","document":{"title":"CO1001 Wk 1 Seminar 1 Handout","link":[{"href":"urn:x-pdf:06df4e2ed95ea3a39935147106c20c31"},{"href":"vault:/Resources/MansfieldPark.pdf"}],"documentFingerprint":"06df4e2ed95ea3a39935147106c20c31"},"uri":"vault:/Resources/MansfieldPark.pdf"}
 >```
 >%%
 >*%%PREFIX%%rths' return to Wimpole Street,%%HIGHLIGHT%% ==Sir== %%POSTFIX%%Thomas had received a letter fr*
@@ -450,7 +372,7 @@ annotation-target::Resources/MansfieldPark.pdf
 >%%COMMENT%%
 >Lots of emphasis on Mr and Sir; whereas it is just Julia
 >%%TAGS%%
->#pronouns
+>
 ^8dts0w0g9t
 
 

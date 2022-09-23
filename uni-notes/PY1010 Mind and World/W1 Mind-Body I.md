@@ -1,5 +1,5 @@
 ---
-
+status: TODO
 ---
 # Week 1: Mind-Body Problem I
 ## Lecture 1: Origins of the Problem
