@@ -2,8 +2,11 @@
 status: TODO
 ---
 # Lectures
+```toc
+
+```
 ## The mise-an-abyme of the adultery novel
-[... todo]
+[… todo]
 
 Why did Flaubert write this novel?
 - Is it a profanation of the sacred?
@@ -171,7 +174,7 @@ Mlle Rouault/ Mlle Emma/ Mme Bovary/ Emma
 - We don't really see Emma as a subject, only really as an object?
 
 Charles/ Charbovary
-"Charles's conversation was commonplace as a street pavement, and everyone's ideas trooped through it in everyday garb..."
+"Charles's conversation was commonplace as a street pavement, and everyone's ideas trooped through it in everyday garb…"
 This is Emma's perspective
 
 The Lovers: Rodolphe and Léon

@@ -1,7 +1,11 @@
 ---
 status: TODO
 ---
+
 # Week 1: Mind-Body Problem I
+```toc 
+title: 'Table of Contents'
+```
 ## Lecture 1: Origins of the Problem
 -- Antonio (Tony) Salgado Borge; absb1
 
@@ -259,6 +263,10 @@ Elizabeth of Bohemia finds it far easier (more correct/less wishywashy) to claim
 
 ---
 # Tutorial
+**I am** sad/happy/etc
+**I** believe/desire/fear something
+What is this "I" 
+
 Readings:
 Extracts from Descartes' Meditations partaining to the division of mind and body
 Elizabeth of Bohemia's correspondence with Descartes

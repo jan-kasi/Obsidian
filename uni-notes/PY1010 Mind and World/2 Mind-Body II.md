@@ -3,6 +3,9 @@ status: TODO
 
 ---
 # Week 2: Mind-Body Problem II
+```toc 
+title: 'Table of Contents'
+```
 ## Lecture 4: Minds and Brains
 1. We live in a physicial world described by laws of physics
 	1. This simple idea explains almost everything in the world, or at least we think it does
@@ -13,7 +16,8 @@ Saul Kripke 😭
 
 Two fundamentally different views about the mind-body relation.
 Suppose a material world, just like ours with respect to the physical facts:
-| Position          | Add?                                                                                |
+
+| Position          | Meaning                                                                             |
 | ----------------- | ----------------------------------------------------------------------------------- |
 | Substance Dualism | Some thing (substance) would have to be added to finish creating this world         |
 | Property Dualism  | Some properties would have to be added                                              |
@@ -87,7 +91,7 @@ Multiple realisation
 
 For example, water bottles cannot be properly defined by a single type of physical form as there are many different types of water bottle; it can be described according to how it functions.
 
-According to functionalism, to be in a given mental state is to be in an internal state with the relevant functional role (cf. 'job description')
+According to functionalism, to be in a given mental state is to be in an internal state with the relevant functional role (cf. 'job description').
 
 The functional role of a mental state can be individualised in three components:
 1. The typical causes of the internal state
@@ -112,7 +116,7 @@ Example of supervenience:
 Degree of baldness supervenes on hair distribution
 - ...
 
-**Materialism** can be thought of as the view that the mental supervenes on the physical (in the strong sense, such that no two logically possible individuals are exactly alike physically while differing mentally)
+**Materialism** can be thought of as the view that the mental supervenes on the physical (in the strong sense, such that no two logically possible individuals are exactly alike physically while differing mentally).
 
 At the moment when they are perfectly physically identical, they would be perfectly mentally identical. At any other given moment they may begin to differ (as contemporary view of physics is non-deterministic but rather probabilistic in respect to some things) and then they would not be perfectly mentally identical.
 
@@ -214,4 +218,22 @@ What would Mary reply?
 	- This does not mean we cannot learn from physical experiences, only that Mary cannot. Remember that Mary knows even things we don't know, she knows EVERYTHING about the physical facts of colour and experiencing colour, and everything that would require and entail
 
 
+
+
+# Tutorial
+I am **sad/happy/etc**
+I **belive/desire/fear something**
+Focusing on this latter part and their place in the world.
+
+Type identity M=P
+Mental states simply are physical descriptions, mental states can be reduced to physical states and processes.
+
+Problem of mental realisability?
+
+
+Functionalism
+
+The functional role defines what a mental state is Mental states are identified with the process and can be described this way.
+
+Definition of pain given by some lower level property.
 

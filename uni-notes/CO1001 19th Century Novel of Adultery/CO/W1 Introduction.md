@@ -1,5 +1,9 @@
-# L1 Introduction
-## Semester Plan
+# Introductory Lectures
+```toc 
+title: 'Table of Contents'
+```
+## L1 Introduction
+### Semester Plan
 | Week | Content                |
 | ---- | ---------------------- |
 | 1    | Introductions          |
@@ -13,12 +17,12 @@
 | 10   | Fantasia               |
 | 11   | Revisions & Comparison |
 
-## Assessment
+### Assessment
 | Assessment          | Due Date           | % of Module Mark | Description | Submission Details |
 | ------------------- | ------------------ | ---------------- | ----------- | ------------------ |
 | Critical Commentary | Wed 19 October 4pm | 40%              | 1500 words  | Online as word doc |
 | Comparative Essay   | Mon 5 December 4pm | 60%              | 2000 words  | Online as word doc |
-## Week 1
+### Week 1
 | Lecture        | Content                                     |
 | -------------- | ------------------------------------------- |
 | Monday         | Intro to CO1001 and CL                      |
@@ -31,7 +35,7 @@
 3. Prepare the extracts for the seminar
 4. Start reading Madame Bovary
 
-# L2 Why compare 19th Century European Novels?
+## L2 Why compare 19th Century European Novels?
 
 Translation is the means by which literature is made accesible for Comparison. <- for this reason it is a key focus of Comp Lit.
 
@@ -40,7 +44,8 @@ By translation, text does not remain fixed. Translation is often tied to marketi
 The Canon.
 There are works and writers who become cannonical. The members of the canon can become a canonical theme or genre over and above the text itself. E.g. Charles Dickens (writer), the 'Dickensian' (style/theme/concept), 1984 (work).
 
-**Why read 19th Century European Novels?** (we ought to be suspicious of these, but charitable in some ways too)
+### Why read 19th Century European Novels?
+**(we ought to be suspicious of these, but charitable in some ways too)**
 - Documents providing historical information
 - Relationship to the author's biography and intentions
 - Relating to the human condition (Lecturer thinks we ought to be incredibly suspicious of this because this would tend to bring a certain homogeneity and interpretation of a particular view point as a universal when it may not be so)
@@ -80,9 +85,9 @@ There are works and writers who become cannonical. The members of the canon can 
 
 ekphrasis: the description of one work of art within an other
 
-**The Novel and its possibilities.**
+### The Novel and its possibilities.
 Example:
-> But when she saw herself in the mirror she wondered at her face. Never had her eyes been so large, so black, nor so deep. ... A blue space surrounded her and ordinary existence appeared only intermittently between these heights, dark and far away beneath her.
+> But when she saw herself in the mirror she wondered at her face. Never had her eyes been so large, so black, nor so deep. … A blue space surrounded her and ordinary existence appeared only intermittently between these heights, dark and far away beneath her.
 - omniscient third-person narrator
 - internal focalisation (Emma becomes the focaliser)
 - Short moments of direct speech:
@@ -92,13 +97,13 @@ Example:
 
 This leaves us unsure of the boundary of where the narrator and the person ends, and by extension where I end etc...
 
-"Free indirect style is a sort of stylistic Panopticon, where the narrator's master voice [...] continually needs to confirm its authority by qualifyig, cancelling, endorsinf, subsuming all..."
+"Free indirect style is a sort of stylistic Panopticon, where the narrator's master voice [...] continually needs to confirm its authority by qualifyig, cancelling, endorsinf, subsuming all…"
 
 
-# L3 Introduction to the Novel of Adultery
-## Definitions 
+## L3 Introduction to the Novel of Adultery
+### Definitions 
 Definitons often tell us many thing sabout the sociopolitical landscape in which it is defined in this way (and contrasting defintions)
-### Oxford Dictionary of English
+#### Oxford Dictionary of English
 > Adultery, n.
 Voluntary sexual intercourse between a married person and another who is not his or her spouse, regarded as a violation of the marriage vows and hence as a sin or crime; the state or condition of having committed this.
 - Voluntary
@@ -108,7 +113,7 @@ Voluntary sexual intercourse between a married person and another who is not his
 - sin, not everyone would accept the moral category of sin
 - crime, adultery as a legal thing
 
-### Roman Law
+#### Roman Law
 Roman Law (17 BC) -> Western Law
 *Lex iulia de adulteriis*
 Private -> Public
@@ -117,14 +122,14 @@ Private -> Public
 Contamination of female -> future partners and husbands
 
 Adultery is commited by a man against a man. It is a property conferred by the act of marriage. It is a form of theft. Consent is not required. 
-### Spanish Dictionary (1895)
+#### Spanish Dictionary (1895)
 1. Illegitimate carnal union between a man and woman when one of two parties is married
 2. ...
 
-### Russion Dictionary (Early 20th Century)
+#### Russion Dictionary (Early 20th Century)
 In bourgeois society - a love connection outside one's family, conjugal infidelity
 
-### Underlying themes
+#### Underlying themes
 Throughout these definitions here explored, there seems a lack of agreement beyond the breach of sexual exclusivity.
 Are women considered the most to blame in these definitions?
 A hangover from Roman Law?
@@ -140,7 +145,7 @@ Often, a male author writing female characters focusing on the consequences for 
 5. Why the conspicuous absence of female authors?
 	1. It was particularly difficult to find or wait for translations of the 2 female authors included in this module.
 
-## Bill Overton's taxonomy
+### Bill Overton's taxonomy
 Novels in which
 1. Adultery is a significant/major component
 2. Adultery is a minor plot point
@@ -149,17 +154,17 @@ Novels in which
 
 We may be tempted to also add a 5th category of the novel of prostitution.
 
-## Beyond Adultery
+### Beyond Adultery
 While we place adultery at the centre of the module and as the focal point for the reading of the novels, there are many more things within these novels which realte to this.
 
 Marriage as a microcosm of society and the violation of it as symptoms of societal corruption.
 
-Critiques of specific classes? In many cases the bourgeoise...
+Critiques of specific classes? In many cases the bourgeoise…
 
 The roles apportioned to adultery?
-- e.g. critique of class(es); critique of (arranged) marriage)...
+- e.g. critique of class(es); critique of (arranged) marriage)…
 
-## Generalisations
+### Generalisations
 These are often refuted by the chosen novels
 1. Solely describe wives betraying husbands?
 2. Written by a man?
