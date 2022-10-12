@@ -2,12 +2,13 @@
 ---
 date: 
 Type:  note
-tags: university philosophy PY1010 race lectures 
+tags: university philosophy [[PY1010]] race lectures 
 Status:  
 ---
+linking: [[PY1010]], [[Race]]
+
 # Metaphysics of Race
 ```toc
-title: '**Table of Contents**'
 ```
 ## 1 Introduction
 Baldwin: race as a 'lie'

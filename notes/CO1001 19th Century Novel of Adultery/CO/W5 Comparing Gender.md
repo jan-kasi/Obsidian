@@ -7,7 +7,6 @@ Comparative Lectures Plan:
 | 8    | Adaptation and Intertextuality               |
 | 11   | 19th century novel of adultery in comparison |
 ```toc
-title: '**Table of Contents**'
 ```
 ## Introduction: Gender roles in the novel of adultery
 - Male/Female writer

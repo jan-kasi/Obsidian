@@ -1,6 +1,5 @@
 # Lectures
 ```toc 
-title: 'Table of Contents'
 ```
 ## L1
 Theodor Fontane's *Effi Briest*

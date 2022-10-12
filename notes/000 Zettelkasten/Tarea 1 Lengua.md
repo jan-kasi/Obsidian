@@ -1,7 +1,7 @@
 ---
 date: 2022.10.11.20.57
 Type: plan
-tags: university tarea coursework SP1001 SP1001LANG 
+tags: university tarea coursework [[SP1001]] SP1001LANG 
 Status:  TODO
 ---
 

@@ -2,14 +2,16 @@
 ---
 date: 
 Type:  note
-tags: university gender philosophy PY1010 lectures
+tags: university gender philosophy [[PY1010]] lectures
 Status:  
 ---
+linking: [[PY1010]], [[Gender]]
+
 # Metaphysics of Gender
 Except these lectures are more about the metaphysics of woman, mostly :p
-```toc 
-title: 'Table of Contents'
+```toc
 ```
+
 ## Lectures
 ### 1
 

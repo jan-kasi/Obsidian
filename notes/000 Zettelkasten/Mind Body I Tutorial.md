@@ -1,9 +1,10 @@
 ---
 Date: 
 Type:  note
-tags:  philosophy PY1010 tutorial mind-body
+tags: philosophy PY1010 tutorial mind-body
 Status: TODO
 ---
+linking:  [[PY1010]], [[mind-body]], 
 # Tutorial
 **I am** sad/happy/etc
 **I** believe/desire/fear something
@@ -38,3 +39,4 @@ Bohemia's objection
 1. Causal interaction between mind and body (D accepts)
 2. Mechanistic view of causation (D accepts)
 3. Mind must be extended (D rejects!!)
+

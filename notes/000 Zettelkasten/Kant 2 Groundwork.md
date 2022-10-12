@@ -1,4 +1,15 @@
-# Lecture
+---
+date: 2022.10.12.15.44
+Type: note
+tags: university 
+Status: 
+---
+linking: [[Kant]]
+
+# Kant 2 Groundwork
+```toc
+```
+
 - The Good Will
 	- It is the ultimate good
 	- Everyone can upon reflection discover this (universitality)
@@ -30,3 +41,5 @@ Kant asserts this principle is immoral because when we act upon it we contradict
 Judging and acting morally are different things.
 
 
+--- 
+# References

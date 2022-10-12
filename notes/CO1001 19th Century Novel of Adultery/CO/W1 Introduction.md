@@ -1,6 +1,13 @@
+---
+date: 2022.09.12.13.14
+Type: note
+tags: university [[CO1001]] lectures 
+Status: TODO
+---
+linking: [[CO1001]] 
+
 # Introductory Lectures
 ```toc 
-title: 'Table of Contents'
 ```
 ## L1 Introduction
 ### Semester Plan

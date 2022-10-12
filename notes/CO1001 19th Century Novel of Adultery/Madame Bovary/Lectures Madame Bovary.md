@@ -3,7 +3,6 @@ status: TODO
 ---
 # Lectures
 ```toc
-
 ```
 ## The mise-an-abyme of the adultery novel
 [… todo]

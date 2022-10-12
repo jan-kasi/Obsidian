@@ -1,18 +1,22 @@
 ---
 Date: 
 Type:  note
-tags:  university PY1010 mind-body lectures philosophy
+tags:  university [[PY1010]] mind-body lectures philosophy
 status: TODO
 ---
+linking: [[PY1010]], [[mind-body]]
+
 # Week 2: Mind-Body Problem II
 ```toc 
-title: Table of Contents
 ```
+
 ## Lecture 4: Minds and Brains
 1. We live in a physicial world described by laws of physics
 	1. This simple idea explains almost everything in the world, or at least we think it does
 2. In this world there are also minds.
 3. Can these minds be fully explained by physics, using these same terms
+
+tags: #[[PY1010]]
 
 Saul Kripke 😭
 

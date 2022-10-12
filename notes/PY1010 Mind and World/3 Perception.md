@@ -2,13 +2,15 @@
 ---
 date: 
 Type:  note
-tags: university perception lectures philsophy PY1010
+tags: university perception lectures philsophy [[PY1010]]
 Status:  
 ---
+linking: [[PY1010]], [[Perception]], 
+
 # Perception 
 ```toc 
-title: 'Table of Contents'
 ```
+
 ## Lectures
 ### 1 Realism
 - Perceptual realism: the objects we perceive exist and the properties we percieve them as having don't depend on being perceived

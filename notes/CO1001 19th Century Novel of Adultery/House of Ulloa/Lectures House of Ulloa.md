@@ -3,7 +3,6 @@ status: todo
 ---
 # House of Ulloa Lectures
 ```toc 
-title: 'Table of Contents'
 ```
 ## 1 Contexts
 ### Historical context

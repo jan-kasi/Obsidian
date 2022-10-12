@@ -1,3 +1,14 @@
+---
+date: 2022.10.12.15.32
+Type: language
+tags: 
+Grammar:
+---
+linking: [[SP1001]], [[SP1001 Language]]
+
+# W3 pasado
+
+
 ## Tiempos del pasado II
 preterito=indefinido
 | Español                                     | Explicación                                                |

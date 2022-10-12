@@ -1,14 +1,12 @@
 ---
 date: {{date:YYYY.MM.DD}}.{{time:HH.mm}}
-Type: note
-tags: university 
-Status: 
+Type: MOC
+tags:  
 ---
 linking: 
 
-# {{Title}}
+# {{title}}
 ```toc
 ```
 
---- 
-# References
+##

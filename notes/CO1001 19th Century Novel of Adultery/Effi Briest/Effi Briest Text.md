@@ -1,3 +1,19 @@
+---
+date: 
+Type:  resource
+tags: university  book textbook [[CO1001]]
+---
+linking: [[CO1001]]
+
+# Effi Briest Text
+```toc
+title: Table of Contents
+```
+
+--- 
+# References
+
+
 annotation-target::Resources/EffiBriest.pdf
 
 

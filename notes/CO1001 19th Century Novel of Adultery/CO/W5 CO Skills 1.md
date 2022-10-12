@@ -1,6 +1,5 @@
 # Writing a Comparative Commentary
 ```toc
-title: '**Table of Contents**'
 ```
 - Focused on detailed close reading
 - About how these passages function and are situated in the novel as a whole

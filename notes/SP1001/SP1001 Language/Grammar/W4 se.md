@@ -1,3 +1,14 @@
+---
+date: 2022.10.12.15.33
+Type: language
+tags: 
+Grammar:
+---
+linking: [[SP1001]], [[SP1001 Language]]
+
+# W4 se
+
+
 # Construcciones con 'se'
 
 | Pasiva refleja                            | Impersonal                                      |
