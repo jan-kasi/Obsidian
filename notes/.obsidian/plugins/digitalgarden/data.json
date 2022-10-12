@@ -1,0 +1,14 @@
+{
+  "githubRepo": "digital-garden",
+  "githubToken": "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",
+  "githubUserName": "jan-kasi",
+  "gardenBaseUrl": "",
+  "prHistory": [],
+  "theme": "dark",
+  "baseTheme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
+  "faviconPath": "",
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false
+  }
+}

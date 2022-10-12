@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "0211eaf54d253757",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e3167c5efe1020e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000 Zettelkasten/Tarea 1 Lengua.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cd43a92f4d3dee0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4a6242aff2553d94",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "2910626ebb84db19",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#SP1001",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b21397248781ec59",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8e4bccf4abe8c046",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bc8c50b3c4e357be",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8fb158d284225afe",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "000 Zettelkasten/Tarea 1 Lengua.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "24cc54cf6a16e33c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "000 Zettelkasten/Tarea 1 Lengua.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0e55c0feb8990e52",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "000 Zettelkasten/Tarea 1 Lengua.md"
+          }
+        }
+      },
+      {
+        "id": "265869ea7977bb6d",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "active": "4a6242aff2553d94",
+  "lastOpenFiles": [
+    "000 Zettelkasten/Mind Body I Tutorial.md",
+    "SP1001/SP1001 Literature/2. Spanish Ballads.md",
+    "SP1001/SP1001 Literature/1. Seven Stories from Spanish America.md",
+    "SP1001/SP1001 Language/Vocab.md",
+    "SP1001/SP1001 Language/SP1001 Language Schedule.md",
+    "000 Zettelkasten/Tarea 1 Lengua.md",
+    "SP1001/SP1001 Language/Grammar/W3 pasado.md",
+    "SP1001/SP1001 Language/Grammar/W4 se.md",
+    "SP1001/SP1001 Language/Oral/1.md",
+    "SP1001/SP1001 Language/Translation/3.md"
+  ]
+}

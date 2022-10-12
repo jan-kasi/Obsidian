@@ -1,0 +1,18 @@
+{
+  "sanctum@@light-mode-palette": "sanctum-light",
+  "obsidian-california-coast-theme@@cc-show-vault-name": true,
+  "obsidian-california-coast-theme@@cc-transparent-popover": false,
+  "obsidian-california-coast-theme@@cc-fancy-cursor": true,
+  "obsidian-california-coast-theme@@cc-editor-list-bullets": false,
+  "obsidian-california-coast-theme@@cc-seamless-embed": true,
+  "obsidian-california-coast-theme@@line-width": 800,
+  "obsidian-california-coast-theme@@text-highlight-bg@@light": "#FFDB0080",
+  "obsidian-california-coast-theme@@cc-lp-editor-heading-hash": false,
+  "obsidian-california-coast-theme@@cc-editor-heading-hash": false,
+  "bubble-space-1@@blp-gif": true,
+  "bubble-space-1@@hd-img": true,
+  "bubble-space-1@@hide-title": false,
+  "bubble-space-1@@hover-fm": false,
+  "bubble-space-1@@bs-bubble-presets": "milk-tea",
+  "bubble-space-1@@bs-space-presets": "eclipse"
+}
