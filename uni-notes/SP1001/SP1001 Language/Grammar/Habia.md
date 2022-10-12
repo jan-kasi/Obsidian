@@ -1,2 +1,0 @@
-en el pasado SINGULAR
-
